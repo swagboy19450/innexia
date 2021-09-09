@@ -72,7 +72,7 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-INNEXIA_IMG = "https://telegra.ph/file/8b6f8f2bb4ff3912634c7.jpg"
+NANCY_IMG = " https://telegra.ph/file/18b564b4b9f8dc0253c5a.jpg"
 
 PM_START_TEXT = """
 `Heya` 🤗 `I am` **NANCY** `your group super bot`
