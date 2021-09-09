@@ -1,4 +1,4 @@
-<h1 align="center"><b> ⚡ Innexia ⚡ </b></h1>
+<h1 align="center"><b> ⚡ NANCY ⚡ </b></h1>
 
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
@@ -6,13 +6,13 @@
   <a href="https://github.com/DarkCybers/innexia/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/innexiaBot"><img src="(https://telegra.ph/file/e641d3dd2ccdce6a3d934.jpg)" width="400"></a></p>
+<p align="center"><a href="https://t.me/miss_nancy_superbot"><img src="( https://telegra.ph/file/18b564b4b9f8dc0253c5a.jpg)" width="400"></a></p>
 
-## Available on Telegram as [@Innexia](https://t.me/innexiaBot)
+## Available on Telegram as [@miss_nancy_superbot](https://t.me/@miss_nancy_superbot)
 
 # ❤️ Support
-<a href="https://t.me/SiderzBot"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="t.me/SiderzChat"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/NANCY_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/NANCY_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 > ⭐️ Thanks to everyone who starred Innexia, That is the greatest pleasure we have !
